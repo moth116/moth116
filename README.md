@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moth116
-- 👀 I’m interested in cybersecurity and software design
-- 🌱 I’m currently learning C++, Java, and Linux
+- 👀 I’m interested in data analysis, software design, and cybersecurity
+- 🌱 I’m currently learning C++, Python, and Bash.
 - ⚡ Fun fact: I am an avid miniature painter and I also enjoy
   playing video games in my spare time
 
